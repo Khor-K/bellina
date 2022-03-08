@@ -516,9 +516,7 @@ ul.social-icons > li {
 ul.social-icons > li a {
     background-color: #2EA3F2;
     border: 2px solid #2EA3F2;
-    border-radius: 50%;
     color: #023669;
-    display: block;
     font-size: 15px;
     height: 30px;
     line-height: 28px;
